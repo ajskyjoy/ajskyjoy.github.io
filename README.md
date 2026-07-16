@@ -1,5 +1,7 @@
 # ajskyjoy.github.io  
 
+[YouTube where I yap about making stuff!!](https://www.youtube.com/@storyinth)  
+
 pRoJeCtS and things like that~  
 
 [Morse Clicker](https://ajskyjoy.github.io/morse_clicker.github.io/)  
